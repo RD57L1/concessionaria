@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjetoFinal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjetoFinal.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\911 GT3\\Gemini_Generated_Image_9yrjm89yrjm89yrj.png",
+      "PackagePath": "staticwebassets\\IMG\\911 GT3\\Gemini_Generated_Image_9yrjm89yrjm89yrj.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\911 GT3\\Gemini_Generated_Image_hhs63yhhs63yhhs6.png",
+      "PackagePath": "staticwebassets\\IMG\\911 GT3\\Gemini_Generated_Image_hhs63yhhs63yhhs6.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\911 GT3\\Gemini_Generated_Image_nmvi2knmvi2knmvi.png",
+      "PackagePath": "staticwebassets\\IMG\\911 GT3\\Gemini_Generated_Image_nmvi2knmvi2knmvi.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\911 GT3\\Gemini_Generated_Image_oe1azdoe1azdoe1a.png",
+      "PackagePath": "staticwebassets\\IMG\\911 GT3\\Gemini_Generated_Image_oe1azdoe1azdoe1a.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\GTR\\Gemini_Generated_Image_58p2yr58p2yr58p2.png",
+      "PackagePath": "staticwebassets\\IMG\\GTR\\Gemini_Generated_Image_58p2yr58p2yr58p2.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\GTR\\Gemini_Generated_Image_9tj7z59tj7z59tj7.png",
+      "PackagePath": "staticwebassets\\IMG\\GTR\\Gemini_Generated_Image_9tj7z59tj7z59tj7.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\GTR\\Gemini_Generated_Image_mla32hmla32hmla3.png",
+      "PackagePath": "staticwebassets\\IMG\\GTR\\Gemini_Generated_Image_mla32hmla32hmla3.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\GTR\\Gemini_Generated_Image_q7gj4fq7gj4fq7gj.png",
+      "PackagePath": "staticwebassets\\IMG\\GTR\\Gemini_Generated_Image_q7gj4fq7gj4fq7gj.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgnq28bgnq28bg.png",
+      "PackagePath": "staticwebassets\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgnq28bgnq28bg.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgnr28bgnr28bg.png",
+      "PackagePath": "staticwebassets\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgnr28bgnr28bg.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgns28bgns28bg.png",
+      "PackagePath": "staticwebassets\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgns28bgns28bg.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgnt28bgnt28bg.png",
+      "PackagePath": "staticwebassets\\IMG\\McLaren Senna\\Gemini_Generated_Image_28bgnt28bgnt28bg.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rs6\\Gemini_Generated_Image_3jbniy3jbniy3jbn.png",
+      "PackagePath": "staticwebassets\\IMG\\Rs6\\Gemini_Generated_Image_3jbniy3jbniy3jbn.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rs6\\Gemini_Generated_Image_dwqbk9dwqbk9dwqb.png",
+      "PackagePath": "staticwebassets\\IMG\\Rs6\\Gemini_Generated_Image_dwqbk9dwqbk9dwqb.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rs6\\Gemini_Generated_Image_l6bguwl6bguwl6bg.png",
+      "PackagePath": "staticwebassets\\IMG\\Rs6\\Gemini_Generated_Image_l6bguwl6bguwl6bg.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rs6\\Gemini_Generated_Image_y0ov6sy0ov6sy0ov.png",
+      "PackagePath": "staticwebassets\\IMG\\Rs6\\Gemini_Generated_Image_y0ov6sy0ov6sy0ov.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rubicon\\Gemini_Generated_Image_42gmgt42gmgt42gm.png",
+      "PackagePath": "staticwebassets\\IMG\\Rubicon\\Gemini_Generated_Image_42gmgt42gmgt42gm.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rubicon\\Gemini_Generated_Image_7fpbzi7fpbzi7fpb.png",
+      "PackagePath": "staticwebassets\\IMG\\Rubicon\\Gemini_Generated_Image_7fpbzi7fpbzi7fpb.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rubicon\\Gemini_Generated_Image_q1r191q1r191q1r1.png",
+      "PackagePath": "staticwebassets\\IMG\\Rubicon\\Gemini_Generated_Image_q1r191q1r191q1r1.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Rubicon\\Gemini_Generated_Image_uri0ovuri0ovuri0.png",
+      "PackagePath": "staticwebassets\\IMG\\Rubicon\\Gemini_Generated_Image_uri0ovuri0ovuri0.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Vendas\\ChatGPT Image 24 de jun. de 2025, 13_52_55.png",
+      "PackagePath": "staticwebassets\\IMG\\Vendas\\ChatGPT Image 24 de jun. de 2025, 13_52_55.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Vendas\\ChatGPT Image 24 de jun. de 2025, 13_53_30.png",
+      "PackagePath": "staticwebassets\\IMG\\Vendas\\ChatGPT Image 24 de jun. de 2025, 13_53_30.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Vendas\\ChatGPT Image 24 de jun. de 2025, 13_53_36.png",
+      "PackagePath": "staticwebassets\\IMG\\Vendas\\ChatGPT Image 24 de jun. de 2025, 13_53_36.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Zenite\\Gemini_Generated_Image_23iuyl23iuyl23iu.png",
+      "PackagePath": "staticwebassets\\IMG\\Zenite\\Gemini_Generated_Image_23iuyl23iuyl23iu.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Zenite\\Gemini_Generated_Image_4rnmqk4rnmqk4rnm.png",
+      "PackagePath": "staticwebassets\\IMG\\Zenite\\Gemini_Generated_Image_4rnmqk4rnmqk4rnm.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\Zenite\\Gemini_Generated_Image_htzof0htzof0htzo.png",
+      "PackagePath": "staticwebassets\\IMG\\Zenite\\Gemini_Generated_Image_htzof0htzof0htzo.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\dodge demon\\Gemini_Generated_Image_99ncka99ncka99nc.png",
+      "PackagePath": "staticwebassets\\IMG\\dodge demon\\Gemini_Generated_Image_99ncka99ncka99nc.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\dodge demon\\Gemini_Generated_Image_a8gqqba8gqqba8gq.png",
+      "PackagePath": "staticwebassets\\IMG\\dodge demon\\Gemini_Generated_Image_a8gqqba8gqqba8gq.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\dodge demon\\Gemini_Generated_Image_b9qhirb9qhirb9qh.png",
+      "PackagePath": "staticwebassets\\IMG\\dodge demon\\Gemini_Generated_Image_b9qhirb9qhirb9qh.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\dodge demon\\Gemini_Generated_Image_mcdj98mcdj98mcdj.png",
+      "PackagePath": "staticwebassets\\IMG\\dodge demon\\Gemini_Generated_Image_mcdj98mcdj98mcdj.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvcsh7cvcsh7c.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvcsh7cvcsh7c.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvdsh7cvdsh7c.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvdsh7cvdsh7c.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvesh7cvesh7c.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvesh7cvesh7c.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvfsh7cvfsh7c.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari f40\\Gemini_Generated_Image_sh7cvfsh7cvfsh7c.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8ul4dl8ul4dl8.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8ul4dl8ul4dl8.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8um4dl8um4dl8.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8um4dl8um4dl8.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8un4dl8un4dl8.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8un4dl8un4dl8.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8uo4dl8uo4dl8.png",
+      "PackagePath": "staticwebassets\\IMG\\ferrari purosangue\\Gemini_Generated_Image_4dl8uo4dl8uo4dl8.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_2xt0kh2xt0kh2xt0.png",
+      "PackagePath": "staticwebassets\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_2xt0kh2xt0kh2xt0.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_6nzg0z6nzg0z6nzg.png",
+      "PackagePath": "staticwebassets\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_6nzg0z6nzg0z6nzg.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_cfj8s7cfj8s7cfj8.png",
+      "PackagePath": "staticwebassets\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_cfj8s7cfj8s7cfj8.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_u9r9g1u9r9g1u9r9.png",
+      "PackagePath": "staticwebassets\\IMG\\lamborghini sterrato\\Gemini_Generated_Image_u9r9g1u9r9g1u9r9.png"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\C#G91148\\Concessionaria\\ProjetoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjetoFinal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjetoFinal.props",
+      "PackagePath": "build\\ProjetoFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjetoFinal.props",
+      "PackagePath": "buildMultiTargeting\\ProjetoFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjetoFinal.props",
+      "PackagePath": "buildTransitive\\ProjetoFinal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
